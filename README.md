@@ -1,7 +1,7 @@
 Hi ! My name is Novan Noviansyah Pratama
 ================================================================================================================================================
 
-Flutter Developer
+Flutter Enthusiast
 -----------------
 
 I studied programming for 3 years, starting from Front End, but I found a passion that suits me, namely Flutter programming
