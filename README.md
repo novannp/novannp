@@ -6,7 +6,7 @@ Flutter Enthusiast
 
 I studied programming for 3 years, starting from Front End, but I found a passion that suits me, namely Flutter programming
 
-* 🌍  I'm based in Garut, Jawa barat
+* 🌍  I'm based in Garut, Jawa barat, Indonesia 
 * ✉️  You can contact me at [novangarut@gmail.com](mailto:novangarut@gmail.com)
 * 🧠  I'm learning Flutter
 
