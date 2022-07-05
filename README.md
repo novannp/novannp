@@ -10,9 +10,6 @@ I studied programming for 3 years, starting from Front End, but I found a passio
 * ✉️  You can contact me at [novangarut@gmail.com](mailto:novangarut@gmail.com)
 * 🧠  I'm learning Flutter
 
-<a href="https://www.github.com/novannp" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/novannp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
