@@ -8,7 +8,7 @@ I studied programming for 3 years, starting from Front End, but I found a passio
 
 * 🌍  I'm based in Garut, Jawa barat, Indonesia 
 * ✉️  You can contact me at [novangarut@gmail.com](mailto:novangarut@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm Flutter Enthusiast
 
 ### Skills
 
