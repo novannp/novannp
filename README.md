@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ! My name is Novan Noviansyah Pratama<br>================================================================================================================================================<br><br>Flutter Enthusiast<br>-----------------<br><br>I studied programming for 3 years, starting from Front End, but I found a passion that suits me, namely Flutter programming<br><br>* 🌍  I'm based in Garut, West Java, Indonesia <br>* ✉️  You can contact me at [novangarut@gmail.com](mailto:novangarut@gmail.com)<br>* 🧠  I'm Flutter Enthusiast
+Hi ! My name is Novan Noviansyah Pratama<br><br>Flutter Enthusiast<br>-----------------<br><br>I studied programming for 3 years, starting from Front End, but I found a passion that suits me, namely Flutter programming<br><br>* 🌍  I'm based in Garut, West Java, Indonesia <br>* ✉️  You can contact me at [novangarut@gmail.com](mailto:novangarut@gmail.com)<br>* 🧠  I'm Flutter Enthusiast
 
 
 ## 🌐 Socials:
